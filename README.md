@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ph0enixxx
 - 👀 I’m interested in Reverse-Engineering, Backend and Anti-Cheat
-- 🌱 I’m currently learning Auto.js and SRE
+- 🌱 I’m currently learning Auto.js and Android-Reverse-Engineering
 - 📫 How to reach me: radishxtop@gmail.com
 
 <!---
